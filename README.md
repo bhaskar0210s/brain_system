@@ -49,5 +49,11 @@ Provide long-term memory, selective context retrieval, strong protection of core
 3. Begin using the system. Trigger consolidation when ready.
 4. Maintain L4 diligently — it is the key to efficient retrieval and plasticity.
 
+## License
+
+This project is released under the [MIT License](LICENSE).
+
+Please use it for positive ends: learning, collaboration, and constructive help for people and communities. The license grants broad rights; this is a human request to apply those rights responsibly and kindly.
+
 ---
 *This system is designed to improve over time through repeated consolidation and self-optimization.*
