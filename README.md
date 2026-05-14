@@ -1,4 +1,4 @@
-# Brain System — Dynamic Plastic Memory Architecture (DPMA)
+# brain-dot-md — Dynamic Plastic Memory Architecture (DPMA)
 
 **Status**: Complete foundational implementation  
 **Architecture Version**: 2.0 (Dynamic Plastic Memory Architecture)
@@ -19,10 +19,10 @@ Provide long-term memory, selective context retrieval, strong protection of core
 - Freely create files and structure inside L2 as your understanding evolves.
 
 ### Quick Commands / Triggers
-- "Perform consolidation on the brain system"
+- "Perform consolidation on brain-dot-md"
 - "Update importance scores and reorganize L2"
 - "Review core invariants with change proposal"
-- "Load relevant context from brain_system using DPMA"
+- "Load relevant context from brain-dot-md using DPMA"
 
 ## Layer Structure
 

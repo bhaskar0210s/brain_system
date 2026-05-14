@@ -1,8 +1,8 @@
-# Brain System Index
+# brain-dot-md Index
 
 **Dynamic Plastic Memory Architecture (DPMA) v2.0**
 
-This is the main entry point for the brain system.
+This is the main entry point for the brain-dot-md project.
 
 ## Quick Navigation
 

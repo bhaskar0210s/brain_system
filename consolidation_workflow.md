@@ -1,6 +1,6 @@
 # Consolidation Workflow (DPMA)
 
-This document describes the recommended process for performing consolidation on the brain system.
+This document describes the recommended process for performing consolidation on brain-dot-md.
 
 ## When to Run Consolidation
 - After significant new work or learning
